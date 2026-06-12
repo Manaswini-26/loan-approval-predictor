@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Loan Approval Prediction — End-to-End ML Pipeline
 
 An end-to-end machine learning project that predicts loan approval likelihood based on applicant details, with model explainability (SHAP) and a deployed interactive web app (Streamlit).
@@ -79,3 +80,7 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, SHAP, Matplotlib, Seaborn, Streaml
 - XGBoost outperformed baseline models on F1 and ROC-AUC after hyperparameter tuning
 - `scale_pos_weight` tuning effectively handled class imbalance
 - Built a full ML lifecycle: data → preprocessing → modeling → evaluation → explainability → deployment
+=======
+# loan-approval-predictor
+End-to-end ML pipeline for loan approval prediction — performed EDA, feature engineering, and trained/compared Logistic Regression, Random Forest, and XGBoost models (best: 78.75% accuracy, 0.81 ROC-AUC). Added SHAP-based explainability and deployed an interactive Streamlit app for real-time predictions.
+>>>>>>> 35a12e560eef41baf5bc6824e4f368dd951f5b22
