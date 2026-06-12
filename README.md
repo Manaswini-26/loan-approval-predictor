@@ -14,6 +14,17 @@ Financial institutions need to assess loan applications quickly and fairly. This
 - Financials: Applicant Income, Co-applicant Income, Loan Amount, Loan Term
 - Credit History, Property Area
 
+## Screenshots
+
+### Model Comparison - Confusion Matrices
+![Confusion Matrices](screenshots/confusion_matrices.png)
+
+### SHAP Feature Importance
+![SHAP Summary](screenshots/shap_summary.png)
+
+### EDA Visualizations
+![EDA Plots](screenshots/eda_plots.png)
+
 ## Approach
 
 1. **EDA**: Analyzed distributions, missing values, and relationships between features and loan status (see `eda_plots.png`, `correlation_heatmap.png`)
