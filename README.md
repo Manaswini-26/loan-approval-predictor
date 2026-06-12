@@ -16,14 +16,9 @@ Financial institutions need to assess loan applications quickly and fairly. This
 
 ## Screenshots
 
-### Model Comparison - Confusion Matrices
-![Confusion Matrices](screenshots/confusion_matrices.png)
-
-### SHAP Feature Importance
-![SHAP Summary](screenshots/shap_summary.png)
-
-### EDA Visualizations
-![EDA Plots](screenshots/eda_plots.png)
+![Confusion Matrices](confusion_matrices.png)
+![SHAP Summary](shap_summary.png)
+![EDA Plots](eda_plots.png)
 
 ## Approach
 
