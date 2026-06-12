@@ -15,9 +15,11 @@ Financial institutions need to assess loan applications quickly and fairly. This
 - Credit History, Property Area
 
 ## Screenshots
-
+## Confusion Matrices
 ![Confusion Matrices](confusion_matrices.png)
+## SHAP Summary
 ![SHAP Summary](shap_summary.png)
+## EDA Plots
 ![EDA Plots](eda_plots.png)
 
 ## Approach
